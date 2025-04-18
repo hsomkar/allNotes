@@ -1,0 +1,3 @@
+![Exported image](Exported%20image%2020250408212904-0.octet-stream)  
+
+- All the request first come to DispatcherServlet. - After receiving an HTTP request, DispatcherServlet consults the HandlerMapping and HandlerAdapter to call the appropriate Controller. - The Controller takes the request and calls the appropriate service methods. - The service method will set model data based on defined business logic and gives that data to the controller. - Controller, along with the data, returns view name to the DispatcherServlet. - Once view is finalized, The DispatcherServlet passes the model data to the view which is finally rendered on the browser.

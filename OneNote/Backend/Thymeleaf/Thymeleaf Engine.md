@@ -1,0 +1,4 @@
+![Mode( public class Person { private String firstName; private String lastName; persons View (Thyme(eaf Template) < ! DOCTYPE HTML> <html xmlns : "http://v vv . thymeleaf. <meta charset= "ÜTF—S" < title>Person < link rel= "stylesheet" type= "text/css " th : href= "É { /css/style . oss < / head> href= "addPerson "Add < table < th>First < th>Last $ {persons } < tr "h: each = "person . < Cd "$ < / div> < / body> Thyme(eaf Engine Person List C O localhost:8080/personList Person List Add Person First Name Last Name Bill Steve Gates Jobs ](Exported%20image%2020250408213738-0.png)
+
+- Thymeleaf engine will parse Thymeleaf Template. It uses Java model data to replace the positions marked on the Thymeleaf template to create a new text in the HTML page. - In web app Thymeleaf is processed on the server.
+- results are included in the HTML and returned to the browser.

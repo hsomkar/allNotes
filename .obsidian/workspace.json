@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "6d78346caca29282",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b28aa4050d9cb51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48efbad70a83bc95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7572cd39b6481e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d12253cccecf2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29bcf06ba4bf544d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc82dc896429ecac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#backend",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21498c8a1009a617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fed841557a6ea1fb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b28e56205a7d5389",
+    "type": "split",
+    "children": [
+      {
+        "id": "d280d0c0d38d5ceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "101451274e6243c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8228ca8c4b41b521",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9917fe172c0d174f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1246005872f459d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4fb148118a13d77f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "48efbad70a83bc95",
+  "lastOpenFiles": [
+    "OneNote/Frontend/ReactJS/ReactJS.md",
+    "OneNote/Backend/Spring Core/Dependency Injection.md",
+    "OneNote/Backend/Spring Core/IOC Container.md",
+    "OneNote/Backend/Spring Core/Auto-wiring.md",
+    "OneNote/Backend/Spring Core/Spring Core.md",
+    "OneNote/Backend/Git and GitHub/Version Control System.md",
+    "OneNote/Backend/Java 8/Java 8.md",
+    "OneNote/Backend/Java 8/Lambda Expression.md",
+    "OneNote/Backend/Java/Java.md",
+    "OneNote/Backend/Java/Has-A relationship.md",
+    "OneNote/Backend/Backend.md",
+    "Inheritance.md",
+    "OneNote/Backend/Java 8/Method Reference.md",
+    "OneNote/Backend/Java 8/Functional Interfaces.md",
+    "OneNote/Backend/Java/Polymorphism.md",
+    "OneNote/Backend/Java/Encapsulation.md",
+    "OneNote/Backend/Java/Abstraction.md",
+    "OneNote/Frontend/ReactJS/Components.md",
+    "OneNote/Backend/Git and GitHub/Git and GitHub.md",
+    "OneNote/Backend/Spring Boot/Spring Boot.md",
+    "OneNote/Backend/Spring Data Jpa/Spring Data Jpa.md",
+    "OneNote/Backend/Spring MVC/Spring MVC.md",
+    "OneNote/Backend/Spring REST/Spring REST.md",
+    "OneNote/Backend/Spring Security/Spring Security.md",
+    "OneNote/Backend/SQL/Constraints.md",
+    "OneNote/Backend/SQL/SQL.md",
+    "Tags",
+    "OneNote/tree.txt",
+    "OneNote/Backend/Java/Abstraction.md]],[[OneNote/Backend/Java",
+    "OneNote/Backend/Java/Abstraction.md]],[[OneNote/Backend",
+    "OneNote/Backend/Java/Abstraction.md]],[[OneNote",
+    "images/Exported image 20250408212655-0.png",
+    "Tags/#javascript",
+    "Tags/#backendgit",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "textgenerator/templates/awesomePrompts",
+    "textgenerator/templates/huggingface",
+    "textgenerator/templates/dalle",
+    "images/Exported image 20250408212408-0.png",
+    "images/Screenshot 2025-04-05 181950.png",
+    "Exported image 20250408212408-0.png",
+    "images/Exported image 20250408214240-1.gif",
+    "images/Exported image 20250408214238-0.jpeg",
+    "images/Exported image 20250408214233-2.gif",
+    "images/Exported image 20250408214231-1.png",
+    "images/Exported image 20250408214229-0.png",
+    "images/Exported image 20250408214223-6.png",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas"
+  ]
+}

@@ -1,0 +1,23 @@
+- Significant reason for introducing JAVA 8 was to introduce Conciseness in the code.
+- JAVA brings in Functional programming which is enabled by Lambda expressions (a powerful tool to create concise code base.)
+- If you have ever observed, with Python, Scala we can do the same thing in Very less LOC. By mid 20s JAVA lost a large market due to these languages. To prevent further loss java upgraded itself from Only OOPs language to some concepts of FP to create concise code base.
+- New Features : 
+    - Lambda Expression
+    - Stream API
+    - Default methods in the interface
+    - Static methods
+    - Functional Interface
+    - Optional
+    - Method references
+    - Date API
+    - Nashorn, JavaScript Engine
+- Main Advantages : 
+    - Compact code (Less boiler plate code)
+    - More readable and reusable code
+    - More testable code
+    - Parallel operations
+
+## @Concepts
+- [[Lambda Expression]]
+- [[Functional Interfaces]]
+- [[Method Reference]]

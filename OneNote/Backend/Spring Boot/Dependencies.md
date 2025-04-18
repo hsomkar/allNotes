@@ -1,0 +1,3 @@
+## Spring Boot Dependencies:
+ 
+- **Spring Boot Starter web** dependency is used to write a Rest Endpoints. - **Spring Boot Starter Thyme Leaf** dependency is used to create a web application and use Thyme leaf template engine. - **Spring Boot Starter Actuator** dependency is used to monitor and manage your application. - **Spring Boot Starter Security** dependency is used for Spring Security. - **Spring Boot Starter Test** dependency is used for writing Test cases. - **Project Lombok** used to auto generate getters, setters, toString, etc. - **Devtools** to automatically restart the application when changes done in Controller class. - **Tomcat-jasper** to work with jsp pages. - **Apache-commons-csv:** Library to parse and easily work with csv file.
