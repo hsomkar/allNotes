@@ -2,5 +2,7 @@
   "obsidian-importer",
   "multi-tag",
   "obsidian-git",
-  "make-md"
+  "make-md",
+  "file-order",
+  "obsidian-outliner"
 ]
