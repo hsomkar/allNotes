@@ -13,9 +13,7 @@
     
 - In Spring REST data is shared by xml/json. - Spring REST or Spring Boot is called as SOA(Service oriented Architecture) - Using SOA Restfull web Application is built - We send or consume data in the form of xml/json
 
-## @Concepts
-- [[2 - Marshalling]]
-- [[3 - Unmarshalling]]
-- [[4 - Controller]]
 
-#backend 
+
+#springrest
+#spring

@@ -266,3 +266,6 @@ System.out.println(info);
 }
  
 EmployeeInfo(id=100, name=abc, dob=Wed Jun 09 23:09:31 IST 2021, phone=9009009009, role=Dev, pwd=null)
+
+#springrest
+#spring

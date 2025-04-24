@@ -41,3 +41,5 @@ var nameJs = /*[[${name}]]*/;
 
 <dependency>￼ <groupId>org.webjars</groupId>￼ <artifactId>bootstrap</artifactId>￼ <version>4.0.0-2</version>￼</dependency>
 ```
+
+#thymeleaf

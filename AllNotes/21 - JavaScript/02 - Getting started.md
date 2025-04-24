@@ -58,3 +58,5 @@
 - console.clear() - You can clear the console window using this method.
 - console.assert() - Writes an error message to the console if the assertion is false. Otherwise, if the assertion is true, this does nothing.  
 
+
+#javascript

@@ -7,3 +7,5 @@
 - Hence Method reference is an alternative to Lambda expressions.
  
 - Whenever we have existing Implementation of Abstract method of our Functional interface then we can go for method reference. If no such method like testImplementation() is available then go for lambda expressions.
+
+#java

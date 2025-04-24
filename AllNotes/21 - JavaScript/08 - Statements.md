@@ -93,3 +93,5 @@ statement or block to execute
  
 - **break** - Used to break the loop.
 - **continue** - when executed, control goes to next iteration skipping the current one.
+
+#javascript

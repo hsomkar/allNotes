@@ -6,3 +6,5 @@
 - **[[2 - Abstraction|2 - Abstraction]]:** Hiding the implementation details and showing only certain methods
 - **[[3 - Encapsulation|3 - Encapsulation]]:** Writing the variables and related methods inside the Object
 
+
+#javascript

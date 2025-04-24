@@ -152,3 +152,6 @@ public class MyClass {
 public class MyClass {  
 // …  
 }
+
+#springcore
+#spring

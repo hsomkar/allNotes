@@ -13,3 +13,5 @@ There are three types of errors in programming:
 - **Throw:** used to throw the exception
     - throw( "Divide by zero error." );
 
+
+#javascript

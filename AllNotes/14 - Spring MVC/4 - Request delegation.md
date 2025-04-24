@@ -15,3 +15,6 @@ return “redirect:https://www.google.com";
 - The request is redirected to a different resource
 - The client will see the URL change after the redirect
 - A new request is created
+
+#springmvc
+#spring

@@ -25,14 +25,8 @@
     
 - To work with Spring core we need ‘spring-core’ and ‘spring-context’ dependencies.
 
-## @Concepts
-- [[2 - Dependency Injection]]
-- [[3 - IOC Container]]
-- [[4 - Configuration Metadata]]
-- [[5 - Spring Architecture]]
-- [[6 - Beans]]
-- [[7 - Spring Beans – Lifecycle]]
-- [[8 - Spring Beans – Scope]]
-- [[9 - Auto-wiring]]
 
-#backend 
+
+
+#springcore
+#spring

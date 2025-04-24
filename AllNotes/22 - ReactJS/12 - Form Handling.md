@@ -413,3 +413,5 @@ ReactDOM.render(<App />,
 ![Activities Google Chrome React App C O localhost:3000 Chapter 1. Intr... co Exercise (Vide... Enter text Entered Value: ](Exported%20image%2020250408214233-2.gif)
 
 ==Here we just add onSubmit event handler which calls the function onFormSumbit and performs the action of replacing the value of inputValue to ‘Hello World!’, and the preventDefault() function is used to prevent the browser from submitting the form and reloading the page.==
+
+#reactjs

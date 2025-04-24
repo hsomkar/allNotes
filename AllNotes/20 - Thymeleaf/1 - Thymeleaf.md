@@ -11,12 +11,7 @@ Thymeleaf is commonly used to generate HTML views in web applications.
 
 A page containing Thymeleaf expressions is referred to as a **Thymeleaf template**.
 
-## @ Basics
-- [[3 - HelloWorld]]
-- [[2 - Thymeleaf Engine]]
 
-## @ Practical Features
-- [[4 - Add CSS, JS and Bootstrap]]
-- [[5 - Conditionals and Iteration]]
 
-#backend 
+
+#thymeleaf

@@ -18,3 +18,5 @@ $$
 - **Concatenation Operator(+)** : used to concatenate strings and variable.
 	- Ex : var status = (age >= 18) ? "Adult" : "Minor";
 
+
+#javascript

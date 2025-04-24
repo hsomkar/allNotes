@@ -5,9 +5,7 @@
 - To run 'npm test'
 - npm run test -- --coverage ----> to run with coverage
 
-## @Concepts
-- [[2 - Getting Started]]
-- [[3 - Some Methods]]
-- [[4 - Query Methods]]
 
-#frontend
+
+
+#jest

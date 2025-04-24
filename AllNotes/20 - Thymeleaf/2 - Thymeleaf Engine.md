@@ -2,3 +2,5 @@
 
 - Thymeleaf engine will parse Thymeleaf Template. It uses Java model data to replace the positions marked on the Thymeleaf template to create a new text in the HTML page. - In web app Thymeleaf is processed on the server.
 - results are included in the HTML and returned to the browser.
+
+#thymeleaf

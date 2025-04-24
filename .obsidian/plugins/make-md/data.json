@@ -58,7 +58,9 @@
     "//OneNote/OneNote/Backend",
     "//OneNote/OneNote/Backend/OneNote/Backend/Git and GitHub",
     "//AllNotes",
-    "//AllNotes/AllNotes/21 - JavaScript"
+    "//AllNotes/AllNotes/10 - Git and GitHub",
+    "//AllNotes/AllNotes/11 - Java",
+    "//AllNotes/AllNotes/22 - ReactJS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -55,3 +55,5 @@ document.write("<br />Test 2 - returned value : " + result);
 Test 1 - returned value : true  
 Test 2 - returned value : false
 
+
+#javascript

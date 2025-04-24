@@ -17,7 +17,5 @@
     - More testable code
     - Parallel operations
 
-## @Concepts
-- [[2 - Lambda Expression]]
-- [[3 - Functional Interfaces]]
-- [[4 - Method Reference]]
+
+#java

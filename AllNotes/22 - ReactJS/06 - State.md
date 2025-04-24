@@ -153,3 +153,5 @@ import React, { Component } from " react'
 
 ## Destructuring states
  ![class Welcome extends Component { render() { const {name, heroName} const {statel, state2} return ( <hl> = this.props = this. state Welcome {name} a.k.a {heroName} </hl> export default Welcome ](Exported%20image%2020250408214133-3.png)
+
+#reactjs

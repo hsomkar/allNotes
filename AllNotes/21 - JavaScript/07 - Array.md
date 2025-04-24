@@ -37,3 +37,5 @@
 | splice()      | Adds and/or removes elements from an array.                                                                             |
 | toString()    | Returns a string representing the array and its elements.                                                               |
 | unshift()     | Adds one or more elements to the front of an array and returns the new length of the array.                             |
+
+#javascript

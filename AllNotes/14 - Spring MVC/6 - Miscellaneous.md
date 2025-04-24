@@ -283,3 +283,6 @@ public String getPathVariable(@PathVariable("name") String name) {
 log.info("path variable value is " + name);  
 return "index";  
 }
+
+#springmvc
+#spring

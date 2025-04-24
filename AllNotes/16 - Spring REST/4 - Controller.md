@@ -48,3 +48,6 @@
     --> To Ignore Null Fields on the Class put this - When we are using @RestController if the data is present in request body we should use @RequestBody - @ControllerAdvice is also replaced by @RestControllerAdvice
 #Backend
 
+
+#springrest
+#spring

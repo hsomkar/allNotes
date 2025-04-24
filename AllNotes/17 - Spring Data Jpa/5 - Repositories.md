@@ -35,3 +35,6 @@
 |flush()|Flushes all pending changes to the database.|
 |saveAllAndFlush(Iterable<S> entities)|Saves all entities and flushes changes instantly.|
 |saveAndFlush(S entity)|Saves an entity and flushes changes instantly.|
+
+#springdatajpa
+#spring

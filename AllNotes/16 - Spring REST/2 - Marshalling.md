@@ -413,3 +413,6 @@ e.printStackTrace();
 |[@XmlValue](https://howtodoinjava.com/jaxb/jaxb-annotations/#XmlValue)|Field|\|<br>\|<br>==Maps a field or property to the text value on an XML tag.==|
 |[@XmlList](https://howtodoinjava.com/jaxb/jaxb-annotations/#XmlList)|Field, Parameter|\|<br>\|<br>==Maps a collection to a list of values separated by space.==|
 |[@XmlElementWrapper](https://howtodoinjava.com/jaxb/jaxb-annotations/#XmlElementWrapper)|Field|\|<br>\|<br>==Maps a Java collection to an XML wrapped collection==|
+
+#springrest
+#spring

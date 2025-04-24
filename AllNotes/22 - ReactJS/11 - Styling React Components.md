@@ -2365,3 +2365,5 @@ export default StudentList
 ![Name : Ashank Class: X Roll: 05 Address : Kolkata, West Bengal Name : Samir Class: Xi Roll: 09 Address : Jalpaiguri, West Bengal Name : Tusar Class: Xii Roll: 02 Address : Howrah, West Bengal Name : Karishma Class: ix Roll: 08 Address : Mednipur, West Bengal ](Exported%20image%2020250408214223-6.png)
 
 _Styling using Sass_
+
+#reactjs

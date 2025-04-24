@@ -40,3 +40,6 @@
 _Note: 
 
 _Choose all from javax.persistence_ _We should either specify constraint name in table level or column level_
+
+#springdatajpa
+#spring

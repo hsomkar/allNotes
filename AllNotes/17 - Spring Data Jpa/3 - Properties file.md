@@ -17,3 +17,6 @@
     - **create**: creates the schema, destroying previous data.
     - **create-drop**: drop the schema when the SessionFactory is closed explicitly, typically when the application is stopped.
     - **none**: does nothing with the schema, makes no changes to the database
+
+#springdatajpa
+#spring

@@ -29,8 +29,6 @@ A technology to store and retrieve data with utmost efficiency along with approp
     - Data can be stored in the form of objects.
     - Example: post SQL
 
-## @Concepts
-- [[2 - Constraints]]
-- [[3 - SQL Statements]]
 
-#backend 
+
+#sql

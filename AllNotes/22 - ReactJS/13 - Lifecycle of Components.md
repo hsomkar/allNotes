@@ -378,3 +378,5 @@ ReactDOM.render(
 **Output:**
 
 ![React App C O localhost:3000 Chapter 1. Intr... co Exercise (Vide... GeeksForGeeks.org, HelloWorld! Press 1--11re! Elements Console Sources S top [HA] Waiting for update signal from componen ) Network nos. Performance Memory Application Security Default levels Lighthouse ](Exported%20image%2020250408214240-1.gif)
+
+#reactjs

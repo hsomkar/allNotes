@@ -43,3 +43,5 @@
  - To remove a specific item from the browser Storage (the opposite of setItem) use removeItem
 	- `localStorage.removeItem("greet");`
 
+
+#javascript

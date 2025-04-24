@@ -8,11 +8,8 @@
     
 - Dependency required: 'spring-boot-starter-security'
 
-## @Concepts
-- [[2 - Adding spring security]]
-- [[3 - Change username and password]]
-- [[4 - Bcrypt]]
-- [[5 - Custom login and logout page]]
-- [[6 - Spring Boot Security Authentication with JPA, Hibernate and MySQL]]
 
-#backend 
+
+
+#springsecurity
+#spring

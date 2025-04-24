@@ -6,3 +6,6 @@
 |---|---|
 |![thumbnail](Exported%20image%2020250408213015-1.png)|\|   \|<br>\|---\|<br>\|## Spring Boot Security Role-based Authorization Tutorial\|<br>\|[https://www.codejava.net/frameworks/spring-boot/spring-boot-security-role-based-authorization-tutorial](https://www.codejava.net/frameworks/spring-boot/spring-boot-security-role-based-authorization-tutorial)\|<br>\|How to authorize users based on roles using Spring Security for Spring Boot applications\||
 
+
+#springsecurity
+#spring

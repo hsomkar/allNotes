@@ -963,3 +963,5 @@ There is a free trial if you’d like to [give SessionStack a try](https://www.s
 
 SessionStack replaying a session  
 If you missed the previous chapters of the series, you can find them here:
+
+#javascript

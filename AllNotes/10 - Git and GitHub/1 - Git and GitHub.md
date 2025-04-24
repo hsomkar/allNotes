@@ -30,9 +30,6 @@ Local Repository : - present in local machine
 # Git Flow:
  ![working directory Local staging local repo git commit git fetch git checkout Remote remote repo ](Exported%20image%2020250408212428-2.jpeg)
 
-## @Concepts
-- [[2 - Version Control System]]
-- [[3 - Git Commands]]
-- [[4 - Miscellaneous|4 - Miscellaneous]]
 
-#backend
+
+#git

@@ -197,3 +197,5 @@ new
 - **Math.min()** and **Math.max()** - can be used to find the lowest or highest value in a list of arguments.
 - **Math.random()** - returns a random number between 0 (inclusive), and 1 (exclusive).
 
+
+#javascript

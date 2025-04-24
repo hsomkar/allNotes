@@ -32,3 +32,5 @@
 |toUpperCase()|Returns the calling string value converted to uppercase.|
 |valueOf()|Returns the primitive value of the specified object.|
 
+
+#javascript

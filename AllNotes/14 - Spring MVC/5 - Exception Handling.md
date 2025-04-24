@@ -45,3 +45,6 @@
 public String otherMethod(){  
 return “viewName”;  
 }
+
+#springmvc
+#spring

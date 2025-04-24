@@ -77,3 +77,5 @@ In the above program, the class Encapsulate is encapsulated as the variables are
 - **Increased Flexibility:** We can make the variables of the class read-only or write-only depending on our requirement. If we wish to make the variables read-only then we have to omit the setter methods like setName(), setAge(), etc. from the above program or if we wish to make the variables as write-only then we have to omit the get methods like getName(), getAge(), etc. from the above program
 - **Reusability:** Encapsulation also improves the re-usability and is easy to change with new requirements.
 - **Testing code is easy:** Encapsulated code is easy to test for unit testing.
+
+#java

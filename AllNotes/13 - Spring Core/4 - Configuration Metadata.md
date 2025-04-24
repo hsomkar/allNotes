@@ -106,3 +106,6 @@ xsi:schemaLocation="http://www.springframework.org/schema/beans
 </beans>
 
 - <beans> …………... </beans> is the root element of the configuration metadata. - Inside this <beans> ………. </beans> element, there is a sub-element, <bean> ……... </bean>. - Spring container / IoC container needs to know that what objects it has to manage. That information we supply in Configuration Metadata using <bean> …… </bean> element. - There may be 1 or more <bean> …… </bean> element(s) in the configuration metadata.
+
+#springcore
+#spring

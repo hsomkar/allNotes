@@ -6,18 +6,7 @@
     - Tell React what you what and it will build the actual UI
 - React uses Virtual DOM
 
-## @Concepts
-  - [[02 - Hello World]]
-  - [[03 - Components]]
-  - [[04 - JSX]]
-  - [[05 - Props]]
-  - [[06 - State]]
-  - [[07 - Event Handling]]
-  - [[08 - Methods as Props]]
-  - [[09 - Conditional Rendering]]
-  - [[10 - List Rendering]]
-  - [[11 - Styling React Components]]
-  - [[12 - Form Handling]]
-  - [[13 - Lifecycle of Components]]
 
-#frontend 
+
+
+#reactjs

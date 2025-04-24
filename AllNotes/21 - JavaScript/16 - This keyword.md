@@ -55,3 +55,5 @@ document.getElementById("demo").innerHTML = x;
 - Output: Click to Remove Me!(button, after clicking it disappears)      
 - Methods like call(), and apply() can refer this to **any object.** 
 
+
+#javascript

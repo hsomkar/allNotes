@@ -27,3 +27,5 @@ OR
 ### Class Component
 
 ![import React, { Component } from 'react ' class Welcome extends Component { render() { const {name, return ( <hl> Welcome heroName} = this. props {name} a.k.a ßheroName export default Welcome ](Exported%20image%2020250408214114-5.png)
+
+#reactjs

@@ -16,25 +16,7 @@
     - JavaScript doesn't supports multithreading or multiprocessing.
     - JavaScript cannot be used for networking applications because there is no such support available.
 
-## @Concepts
-- [[02 - Getting started]]
-- [[03 - Variables]]
-- [[04 - Operators]]
-- [[05 - Objects]]
-- [[06 - String]]
-- [[07 - Array]]
-- [[08 - Statements]]
-- [[09 - Functions]]
-- [[10 - Events]]
-- [[11 - Cookies]]
-- [[12 - REGEXP]]
-- [[13 - Web Storage]]
-- [[14 - DOM]]
-- [[15 - Errors and Exceptions]]
-- [[16 - This keyword]]
-- [[17 - Promise]]
-- [[18 - Miscellaneous]]
-- [[19 - OOPS]]
-- [[20 - Namaste 🙏 JavaScript]]
 
-#frontend 
+
+
+#javascript

@@ -41,3 +41,5 @@ It can be applied Table level as well as Column level.
  
 The DEFAULT constraint is used to provide a default value for a column.  
 The default value will be added to all new records IF no other value is specified
+
+#sql

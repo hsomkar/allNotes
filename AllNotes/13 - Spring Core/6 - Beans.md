@@ -6,3 +6,5 @@
     4. Should have public getters and setters.
     5. No other methods.
     6. Should implements Serializable.
+#springcore
+#spring

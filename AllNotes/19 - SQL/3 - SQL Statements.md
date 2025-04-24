@@ -75,3 +75,5 @@ With the help of select we can perform retrieval from the table in the three dif
 Projection  
 Selection  
 Joins
+
+#sql
