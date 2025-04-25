@@ -40,7 +40,7 @@
 | toSource() | Returns an object literal representing the specified object; you can use this value to create a new object. |
 | toString() | Returns a string representing the specified object.                                                         |
 ### Example
-```
+```js
 <script type="text/javascript">
 var str = "Javascript is an interesting scripting language";
 var re = new RegExp( "script", "g" );

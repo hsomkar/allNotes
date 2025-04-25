@@ -1,7 +1,7 @@
 - The values are written as **name : value** pairs (name and value separated by a colon). 
 - Objects can be created in two ways:
     - Directly using var:
-```
+```js
 var person = {  
 firstName : “John”,  
 lastName : “Doe”,  
@@ -15,7 +15,7 @@ return this.firstName + " " + this.lastName;
 
 - Using new keyword : 
 
-```
+```js
 var person = new Object();  
 person.firstName = "John";  
 person.lastName = "Doe";  
@@ -26,7 +26,7 @@ person.eyeColor = "blue";
 - A constructor is a function that creates and initializes an object. JavaScript provides a special constructor function called Object() to build the object. 
 - Eg : 
 
-```
+```html
 <html>
   
 <head>

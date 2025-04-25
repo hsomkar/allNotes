@@ -34,7 +34,7 @@ The execution stack allows the JavaScript engine to keep track of the order of e
 Let’s elaborate using some code examples.  
 _Consider the code below:_  
 
-```
+```js
       
 function
  b() {

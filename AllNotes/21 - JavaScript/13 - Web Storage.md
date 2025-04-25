@@ -4,7 +4,7 @@
 - **sessionStorage** object stores data for one session (data is lost when the browser tab is closed). 
 - Syntax:
 
-```
+```js
 <script type="text/javascript">  
       localStorage.setItem("name", "John Smith");  
       console.log(localStorage.getItem("name")); // "John Smith"
@@ -14,7 +14,7 @@
     </script>
 ```
  - If you want to store simple structured data, you can use JSON to serialize it to and from strings for storage. 
-```
+```js
     <script type="text/javascript">  
       var players = [  
         { name: "Tyler", score: 22 },  
@@ -26,7 +26,7 @@
     </script>
 ```
  - Simpler way of handling Storage: 
-```
+```js
     <script type="text/javascript">  
       // Set  
       localStorage.greet = "Hi!"; // Same as: window.localStorage.setItem("greet", "Hi!");  

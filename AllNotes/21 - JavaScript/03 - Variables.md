@@ -24,7 +24,7 @@
 - All primitives are immutable, i.e., they cannot be altered. It is important not to confuse a primitive itself with a variable assigned a primitive value. The variable may be reassigned a new value, but the existing value can not be changed in the ways that objects, arrays, and functions can be altered which are mutable. 
 - Eg.  
 
-```
+```js
 // Using a string method doesn't mutate the string
 
 var bar = "baz";

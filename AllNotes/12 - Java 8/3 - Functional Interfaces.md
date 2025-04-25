@@ -6,12 +6,12 @@
 ## Q) How lambda expression and functional Interfaces are related?
  
 - Functional Interface is used to provide reference to lambda expressions. --> This is the relation
-- Comparator<String> c= (s1,$2) > s1.compareTo(s2);
-- |   |   |
-    |---|---|
-    |(s1,s2) > sl.compareTo(s2)|: This is lambda Expression|
-    |Comparator<String> c|: This is Functional Interface|
-    
+- `Comparator<String> c= (s1,$2) > s1.compareTo(s2);`
+
+| `(s1,s2) > sl.compareTo(s2)` | This is lambda Expression    |
+| ---------------------------- | ---------------------------- |
+| `Comparator<String> c`       | This is Functional Interface |
+
 - Thus you can see , To call lambda expressions we need Functional Interfaces.
    
 

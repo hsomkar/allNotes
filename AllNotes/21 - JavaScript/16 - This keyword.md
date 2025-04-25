@@ -2,7 +2,7 @@
 - It has different values depending on where it is used:
 	- In a method, this refers to the **owner object.**
         
-```
+```js
         const person = {  
         firstName: "John",  
         lastName: "Doe",  
@@ -21,7 +21,7 @@
         
 - Alone, this refers to the **global object.**
         
-```
+```js
         var x = this;  
 document.getElementById("demo").innerHTML = x;
 ```
@@ -29,7 +29,7 @@ document.getElementById("demo").innerHTML = x;
 - Output: [object Window]    
 - In a function, this refers to the **global object.**
         
-```
+```js
         document.getElementById("demo").innerHTML = myFunction();  
         function myFunction() {  
         return this;  
@@ -39,7 +39,7 @@ document.getElementById("demo").innerHTML = x;
 - Output: [object Window]
 - In a function, in strict mode, this is **undefined**.
         
-```
+```js
         "use strict";  
         var x = this;  
 document.getElementById("demo").innerHTML = x;
@@ -49,7 +49,7 @@ document.getElementById("demo").innerHTML = x;
           
 - In an event, this refers to the **element** that received the event.
         
-```
+```js
        <button onclick="this.style.display='none'">Click to Remove Me!</button>
 ```
 - Output: Click to Remove Me!(button, after clicking it disappears)      

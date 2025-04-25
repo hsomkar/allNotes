@@ -24,7 +24,7 @@
     - console.time() can be used to measure how long a task in your code takes to run.
     - Calling console.time([label]) starts a new timer. When console.timeEnd([label]) is called, the elapsed time, in milliseconds, since the original .time() call is calculated and logged.
     - Eg.:
-    ```
+    ```js
     console.time(
     'response in'
     );

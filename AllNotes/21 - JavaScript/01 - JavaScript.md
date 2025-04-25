@@ -13,8 +13,8 @@
     - Richer interfaces
 - Limitations of JavaScript
 	- Client-side JavaScript does not allow the reading or writing of files.
-    - JavaScript doesn't supports multithreading or multiprocessing.
-    - JavaScript cannot be used for networking applications because there is no such support available.
+	- JavaScript doesn't supports multithreading or multiprocessing.
+	- JavaScript cannot be used for networking applications because there is no such support available.
 
 
 

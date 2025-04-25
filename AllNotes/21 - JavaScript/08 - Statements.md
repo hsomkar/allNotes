@@ -13,6 +13,7 @@
     
     - Syntax:
 
+```js
 if (expression){  
 Statement(s) to be executed if expression is true  
 }  
@@ -39,7 +40,8 @@ case condition n: statement(s)
 break;  
 default: statement(s)  
 }
- 
+```
+
 ## Looping Statements
  
 - **while** loop
@@ -62,13 +64,13 @@ default: statement(s)
     - The for-in loop is used to loop through the properties of an object.
     - Syntax:
 
-|
-|
-==for loop== ==forEach== ==for of== ==for in==
-|Does not work with object|Does not work with object, only use with arrays|Does not work with object|Works with object and arrays|
-|Does not ignore empty elements|Ignores empty elements|Does not ignore empty elements|Ignores empty elements|
-|break statement is supported|break statement is not supported coz it’s a method|break statement is supported|break statement is supported|
-|Ignores extra properties which does not have index|Ignores extra properties which does not have index|Ignores extra properties which does not have index|Does not ignore extra properties which does not have index|
+
+| **for loop**                                       | **forEach**                                        | **for of**                                         | **for in**                                                 |
+| -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
+| Does not work with object                          | Does not work with object, only use with arrays    | Does not work with object                          | Works with object and arrays                               |
+| Does not ignore empty elements                     | Ignores empty elements                             | Does not ignore empty elements                     | Ignores empty elements                                     |
+| break statement is supported                       | break statement is not supported coz it’s a method | break statement is supported                       | break statement is supported                               |
+| Ignores extra properties which does not have index | Ignores extra properties which does not have index | Ignores extra properties which does not have index | Does not ignore extra properties which does not have index |
 
 while (expression){  
 Statement(s) to be executed if expression is true  
